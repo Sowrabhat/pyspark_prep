@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+201,Laptop,Electronics,60000
+202,Monitor,Electronics,15000
+203,Keyboard,Electronics,2500
+204,Chair,Furniture,7000
+205,Table,Furniture,12000
+206,T-Shirt,Clothing,900
+207,Jeans,Clothing,1800
+208,Rice,Grocery,70
+209,Oil,Grocery,150
+210,Headphones,Electronics,4000

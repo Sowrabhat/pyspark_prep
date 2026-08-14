@@ -1,0 +1,11 @@
+employee_id,employee_name,department,role,salary,city,joining_date
+1,Amit,Data,Engineer,70000,Bangalore,2022-01-10
+2,Bhavna,Data,Engineer,82000,Bangalore,2021-07-15
+3,Chetan,Data,Analyst,65000,Pune,2023-02-01
+4,Deepa,Engineering,Developer,90000,Hyderabad,2020-11-20
+5,Eshan,Engineering,Developer,105000,Bangalore,2019-05-18
+6,Farah,Engineering,Manager,140000,Bangalore,2018-03-12
+7,Gaurav,Sales,Executive,60000,Mumbai,2023-06-01
+8,Hema,Sales,Manager,110000,Mumbai,2020-01-25
+9,Ishan,HR,Executive,55000,Delhi,2022-09-10
+10,Jaya,HR,Manager,95000,Delhi,2019-12-05

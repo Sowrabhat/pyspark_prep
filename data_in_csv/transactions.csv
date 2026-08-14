@@ -1,0 +1,15 @@
+transaction_id,customer_id,transaction_date,amount,payment_method,city
+5001,101,2024-07-01,1200,Card,Bangalore
+5002,102,2024-07-01,800,UPI,Chennai
+5003,103,2024-07-02,1500,Card,Mumbai
+5004,104,2024-07-02,500,,Hyderabad
+5005,105,2024-07-03,900,UPI,Delhi
+5006,106,2024-07-03,400,Card,
+5007,107,2024-07-04,1300,UPI,Pune
+5008,108,2024-07-04,1000,Card,Kochi
+5009,109,2024-07-05,1100,Card,Kolkata
+5010,110,2024-07-05,1400,UPI,Bangalore
+5010,110,2024-07-05,1400,UPI,Bangalore
+5011,101,2024-07-06,320,Cash,Bangalore
+5012,102,2024-07-06,450,UPI,Chennai
+5013,103,2024-07-07,750,Card,Mumbai

@@ -1,0 +1,13 @@
+customer_id,customer_name,city,state,signup_date,customer_segment
+101,Arun Kumar,Bangalore,Karnataka,2024-01-15,Premium
+102,Priya Sharma,Chennai,Tamil Nadu,2024-02-10,Standard
+103,Rahul Verma,Mumbai,Maharashtra,2024-02-18,Premium
+104,Sneha Reddy,Hyderabad,Telangana,2024-03-05,Standard
+105,Vikram Singh,Delhi,Delhi,2024-03-22,Premium
+106,Ananya Rao,Bangalore,Karnataka,2024-04-01,Standard
+107,Kiran Patil,Pune,Maharashtra,2024-04-18,Standard
+108,Meera Nair,Kochi,Kerala,2024-05-02,Premium
+109,Rohit Das,Kolkata,West Bengal,2024-05-20,Standard
+110,Divya Iyer,Bangalore,Karnataka,2024-06-12,Premium
+111,Sanjay Gupta,Jaipur,Rajasthan,2024-07-03,Standard
+112,Neha Joshi,Pune,Maharashtra,2024-07-25,Premium
